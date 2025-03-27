@@ -1,0 +1,48 @@
+_repo: John-Long-s-journal-1768-1782_75593
+_version: 0.0.1
+alternative_title:
+- Voyage and travels of an Indian interpreter and trader, describing the manners and
+  customs of the North American Indians
+- Long's voyages and travels, 1768-1782
+creator:
+  author:
+    agent_name: Long, J. (John), Indian trader
+    alias: Long, John, Indian trader
+    gutenberg_agent_id: '58056'
+    url: http://www.gutenberg.org/2009/agents/58056
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+    wikipedia: https://en.wikipedia.org/wiki/Reuben_Gold_Thwaites
+description: ''
+gutenberg_issued: '2025-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75593'
+  lccn: 04013418
+language: en
+pgterms:marc904: http://www.archive.org/details/earlywesterntrav02thwauoft
+pgterms:marc905: 20110528022734thwaites
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Richard Tonsing, Greg Bergquist, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aCleveland :$bThe Arthur H. Clark Company, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 2
+subjects:
+- !lcsh 'Indians of North America'
+- !lcsh 'Indians of North America -- Languages'
+- !lcsh 'Fur trade -- Canada'
+- !lcsh 'Ojibwa language'
+- !lcc 'F590.3'
+- GITenberg
+title: John Long's journal, 1768-1782
+url: http://www.gutenberg.org/ebooks/75593
