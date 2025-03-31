@@ -4,6 +4,9 @@ alternative_title:
 - Voyage and travels of an Indian interpreter and trader, describing the manners and
   customs of the North American Indians
 - Long's voyages and travels, 1768-1782
+covers:
+- cover_type: archival
+  image_path: 75593-h/images/cover.jpg
 creator:
   author:
     agent_name: Long, J. (John), Indian trader
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33780
     wikipedia: https://en.wikipedia.org/wiki/Reuben_Gold_Thwaites
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75593#John-Long-s-journal-1768-1782
 gutenberg_issued: '2025-03-11'
 gutenberg_type: Text
 identifiers:
